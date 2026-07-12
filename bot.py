@@ -1,7 +1,7 @@
 import re
 import telebot
 
-tok = "8834585615:AAEJETsk2jaL9XjTA6bLUPy0R_qrYXTV7LI"
+tok = "8834585615:AAFqJO5-iBp0lxRtAJ8qeA52RotqPI5V-nc"
 bot = telebot.TeleBot(tok)
 
 # ပုံနဲ့ စာသား နှစ်မျိုးလုံး လက်ခံနိုင်အောင် content_types ကို ထည့်ပေးလိုက်ပါပြီ
